@@ -18,6 +18,10 @@ This is a node app that can create an html file of your team members from your i
 
 <br>
 
+## Mockup 
+
+![Mockup](./assets/10-object-oriented-programming-homework-demo.png)
+
 ## Installation
 To install, download the repo and run 'node index' in the command line.
 <br>
